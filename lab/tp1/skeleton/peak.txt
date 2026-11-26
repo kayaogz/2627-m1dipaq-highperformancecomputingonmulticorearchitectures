@@ -1,0 +1,20 @@
+Lab 1 - Sequential code optimization
+Exercise 1: The peak rate of a core  --  ANSWERS
+
+Exercise 1 is done on paper. Write your answers below, one slot per
+question, and send this file with the source files of the lab.
+
+(a) Integers: additions per cycle, per second; multiplications per cycle,
+    per second.
+
+
+(b) Real numbers: additions and multiplications per cycle, per second;
+    peak rate of the core and of the processor, in flops per second.
+
+
+(c) Divisions per second at most, real numbers and integers; which number
+    of the first divider you used, and why.
+
+
+(d) Flops per cycle of the dot product; which part of the peak rate.
+
